@@ -33,7 +33,7 @@
 ### 日志
 
 **[2025-04-19 09:12][work]**
-**初始测试**
+**Stable Diffusion初始测试**
 模型：SD v1.5
 参数：Euler a, 30 steps, 512×512
 Prompt：`photo of a young human face, neutral expression, studio light`
